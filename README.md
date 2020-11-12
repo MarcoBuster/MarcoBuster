@@ -17,6 +17,7 @@ Up next, here's some projects:
 ### Other
 - [unihome](https://github.com/MarcoBuster/unihome): a web directory to find the correct resource in my university website
 - [immuni-tek-sender](https://github.com/MarcoBuster/immuni-tek-sender): sends a Telegram notification when a new exposure key batch is added to the [Immuni](https://github.com/immuni-app) keyserver
+- [university](https://github.com/MarcoBuster/university): my code and notes produced during my computer science university course 
 - [ITIS](https://github.com/MarcoBuster/ITIS) and [ITIS-php](https://github.com/MarcoBuster/ITIS-php): a bunch of high school homework
 - and many more...
 
