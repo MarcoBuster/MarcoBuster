@@ -15,6 +15,7 @@ Up next, here's some projects:
 - and many more...
 
 ### Other
+- [quanto-manca](https://github.com/MarcoBuster/quanto-manca): how long it takes? Analysis of covid vaccination status in Italy
 - [unihome](https://github.com/MarcoBuster/unihome): a web directory to find the correct resource in my university website
 - [immuni-tek-sender](https://github.com/MarcoBuster/immuni-tek-sender): sends a Telegram notification when a new exposure key batch is added to the [Immuni](https://github.com/immuni-app) keyserver
 - [university](https://github.com/MarcoBuster/university): my code and notes produced during my computer science university course 
